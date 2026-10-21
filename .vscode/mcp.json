@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "playwright-test": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "playwright",
+        "run-test-mcp-server",
+        "--config",
+        "c:/Users/josha/OneDrive/Desktop/Automation/Playwright/playwright.config.ts"
+      ]
+    }
+  },
+  "inputs": []
+}
