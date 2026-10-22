@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VMG Playwright
 
 Clean Playwright automation baseline for end-to-end tests.
@@ -38,3 +39,6 @@ Create a local `.env` as needed (gitignored).
 npm test
 npm run typecheck
 ```
+=======
+# my-first-project
+>>>>>>> be8f6f9fb602baf3026cbfabfa97e3c807995f90
