@@ -2,7 +2,7 @@
 
 Clean Playwright automation baseline for end-to-end tests.
 
-## Layout - Sample
+## Layout
 
 Per-application structure (Admin Portal, Citadel, Sentinel):
 
